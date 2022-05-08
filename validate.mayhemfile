@@ -1,0 +1,5 @@
+project: wasm-tools
+target: validate
+
+cmds:
+  - cmd: /validate

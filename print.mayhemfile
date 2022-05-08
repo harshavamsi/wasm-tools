@@ -1,0 +1,5 @@
+project: wasm-tools
+target: print
+
+cmds:
+  - cmd: /print

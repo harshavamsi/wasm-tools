@@ -1,0 +1,5 @@
+project: wasm-tools
+target: incremental-parse
+
+cmds:
+  - cmd: /incremental-parse

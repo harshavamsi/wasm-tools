@@ -1,0 +1,5 @@
+project: wasm-tools
+target: text-parser
+
+cmds:
+  - cmd: /text-parser

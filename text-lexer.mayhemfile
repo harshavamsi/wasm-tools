@@ -1,0 +1,5 @@
+project: wasm-tools
+target: text-lexer
+
+cmds:
+  - cmd: /text-lexer

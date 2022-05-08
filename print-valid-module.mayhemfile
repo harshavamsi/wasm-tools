@@ -1,0 +1,5 @@
+project: wasm-tools
+target: print-valid-module
+
+cmds:
+  - cmd: /print-valid-module
